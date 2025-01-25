@@ -38,9 +38,6 @@ function App() {
           ))}
         </ul>
       </header>
-      <div>
-        Hello app
-      </div>
     </div>
   );
 }
